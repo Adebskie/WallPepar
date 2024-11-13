@@ -2,10 +2,11 @@
 WallPePar Mobile App.
 
 # Features
-* Share Projects
-* Message other developers
-* Rate others work
-* Search other developers
+* Download Wallpapers
+* Share your Artwork
+* Ad Based Premium Wallpapers
+* Search and follow favorite your Artist
+* Affordable Premium Pass 
 
 # Course Overview
 * Basic React Native Components
@@ -25,8 +26,13 @@ WallPePar Mobile App.
 <img src="assets/images/screenshot/signup.jpg">  
 
 # Sign In Screen
-<img src="assets/images/screenshot/signin.jpg">  
+<img src="assets/images/screenshot/signin.jpg">
+
+# Tabs Screen
+<img src="assets/images/screenshot/1.jpg"> 
+<img src="assets/images/screenshot/2.jpg"> 
+<img src="assets/images/screenshot/3.jpg"> 
+<img src="assets/images/screenshot/4.jpg"> 
 
 # Walkthrough
-<img src="assets/images/screenshot/walkthrough.mp4
-">  
+* https://youtu.be/tojuIR5DBAo
